@@ -77,6 +77,8 @@ laptop-price-predictor/
 │   ├── best_model_pipeline.joblib
 │   ├── Dockerfile
 │   └── requirements.txt
+│   └── Procfile
+│   └── setup.sh
 ├── laptop_price_predictor.ipynb
 ├── README.md
 └── screenshot.png
